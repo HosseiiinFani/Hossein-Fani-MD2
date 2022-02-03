@@ -21,7 +21,7 @@ clone the project
 `git clone https://link-to-project`
 > 1. Open the project in Arduino IDE
 > 2. Plug in your Arduino board
-> Upload the program
+> 3. Upload the program
 
 ## About the author
 this program was written by [your name]. you can contact me at:
